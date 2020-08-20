@@ -1,0 +1,24 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "cross-blob": "^2.0.0",
+    "deep-object-diff": "^1.1.0",
+    "file-to-array-buffer": "^1.0.0",
+    "filereader": "^0.10.3",
+    "json-midi-encoder": "^5.0.8",
+    "midi-parser-js": "^4.0.4",
+    "midi-writer-js": "^1.7.4",
+    "midievents": "^2.0.0",
+    "midifile": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
